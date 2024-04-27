@@ -1,46 +1,45 @@
-//  1-masala
+//  1-mashq
 
 // function calculate(a, b) {
 //   return a + b;
 // }
 // console.log(calculate(3, 6));
 
-// 2-masala
+// 2-mashq
 
 // function toSecunds(minutes) {
 //   return minutes * 60;
 // }
 // console.log(toSecunds(7) + " sekund");
 
-// 3-masala
+// 3-mashq
 
 // function nextInt(int) {
 //   return int + 1;
 // }
 // console.log(nextInt(7));
 
-// 4-masala
+// 4-mashq
 
 // function triangleArea(a, b) {
 //   return (a * b) / 2;
 // }
 // console.log(triangleArea(3, 6));
 
-// 5-masala
-
+// 5-mashq
 // function ageToDays(age) {
 //   return age * 365;
 // }
 // console.log(ageToDays(27));
 
-// 6-masala
+// 6-mashq
 
 // function calculate(num) {
 //   return num ** 3;
 // }
 // console.log(calculate(5));
 
-// 7-masala
+// 7-mashq
 
 // function firstNum(array) {
 //   return array[0];
@@ -49,28 +48,28 @@
 // console.log(firstNum(array));
 // console.log(firstNum(["a", "b", "c"]));
 
-// 8-masala
+// 8-mashq
 
 // function calculate(a, b) {
 //   return a * b;
 // }
 // console.log(calculate(3, 6));
 
-// 9-masala
+// 9-mashq
 
 // function toSecunds(h) {
 //   return h * 3600;
 // }
 // console.log(toSecunds(24) + " sekund");
 
-// 10-masala
+// 10-mashq
 
 // function calculate(a, b) {
 //   return a + b - 1;
 // }
 // console.log(calculate(3, 6));
 
-// 11-masala
+// 11-mashq
 
 // function calculate(a, b) {
 //   return a % b;
@@ -79,14 +78,14 @@
 // console.log(calculate(-9, 45));
 // console.log(calculate(3, 4));
 
-// 12-masala
+// 12-mashq
 
 // const areaOfRectangle = (a, b) => {
 //   return a * b;
 // };
 // console.log(areaOfRectangle(3, 4));
 
-// 13-masala
+// 13-mashq
 
 // const addString = (a) => {
 //   return `Someting ${a}`;
@@ -94,14 +93,14 @@
 
 // console.log(addString("Teacher"));
 
-// 14-masala
+// 14-mashq
 
 // const sqr = (n) => {
 //   return n ** 2;
 // };
 // console.log(sqr(5));
 
-// 15-masala
+// 15-mashq
 
 // function zero(n) {
 //   if (n <= 0) {
@@ -112,28 +111,28 @@
 // }
 // zero(-8);
 
-// 16-masala
+// 16-mashq
 
 // function calculate(n) {
 //   return (n - 2) * 180;
 // }
 // console.log(calculate(4));
 
-// 17-masala
+// 17-mashq
 
 // function calculate(x, y) {
 //   return x * 2 + y * 3;
 // }
 // console.log(calculate(4, 2));
 
-// 18-masala
+// 18-mashq
 
 // const addString = (a) => {
 //   return `${a}Edabit`;
 // };
 // console.log(addString("Teacher"));
 
-// 19-masala
+// 19-mashq
 
 // const biggerThanHundred = function (a, b) {
 //   if (a + b < 100) {
@@ -145,7 +144,7 @@
 // biggerThanHundred(34, 45);
 // biggerThanHundred(34, 75);
 
-// 20-masala
+// 20-mashq
 
 // let newArray = [];
 // function array(n) {
@@ -156,14 +155,14 @@
 // array(20);
 // console.log(newArray);
 
-// 21-masala
+// 21-mashq
 
 // function countLegs(tovuq, qoy, mol) {
 //   return tovuq * 2 + qoy * 4 + mol * 4;
 // }
 // console.log(countLegs(2, 3, 5));
 
-// 22-masala
+// 22-mashq
 
 // function bool(a, b) {
 //   if (a == true && b == false) {
@@ -179,7 +178,7 @@
 // bool(true, false);
 // bool(true, true);
 
-// 23-masala
+// 23-mashq
 
 // function isEqual(a, b) {
 //   if (a === b) {
@@ -191,7 +190,7 @@
 // isEqual(4, 4);
 // isEqual(4, 8);
 
-// 24-masala
+// 24-mashq
 
 // function points(win, draw, lost) {
 //   return win * 3 + draw * 1;
@@ -199,7 +198,7 @@
 
 // console.log(points(6, 2, 3));
 
-// 25-masala
+// 25-mashq
 
 // function secunds(h, m) {
 //   return h * 3600 + m * 60;
@@ -207,7 +206,7 @@
 
 // console.log(secunds(1, 2));
 
-// 26-masala
+// 26-mashq
 
 // function fun(n) {
 //   if (n === 7) {
@@ -220,7 +219,7 @@
 // fun(7);
 // fun(9);
 
-// 27-masala
+// 27-mashq
 
 // function isEqual(a, b) {
 //   if (a === b) {
